@@ -58,7 +58,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 </tr>
 </table>
 
-<table style=width:"100%">
+<table width="100%">
 <tr>
 <td width="33.3%">
 
