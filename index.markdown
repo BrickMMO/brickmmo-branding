@@ -35,9 +35,9 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 
 ## LOGO COLOURS
 
-<table>
-<tr>
-<td width="33.3%">
+<table>  
+<tr>  
+<td width="33.3%">  
 
 <h3>Coloured Logo</h3>
 <img src="png/brickmmo-logo-coloured.png">
