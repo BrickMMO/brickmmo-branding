@@ -35,6 +35,8 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 
 ## LOGO COLOURS
 
+
+
 <table>  
 <tr>  
 <td width="33.3%">  
@@ -58,7 +60,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 </tr>
 </table>
 
-<table witdh="100%">
+<table width="100%">
 <tr>
 <td width="33.3%">
 
