@@ -10,7 +10,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 To create future icons, use [brickmmo-icons-revised.ai](icons/brickmmo-icons-revised.ai) as a template.
 
-<table style=width:"100%">
+<table width="100%">
 <tr>
 <td width="25%">
 
@@ -20,7 +20,7 @@ To create future icons, use [brickmmo-icons-revised.ai](icons/brickmmo-icons-rev
 <li><a href="icons/png/brix.png" download>brix.png</a></li>
 <li><a href="icons/svg/brix.svg" download>brix.svg</a></li>
 </ul>
-
+<!--
 <small>
 Name: Brix
 <br>
@@ -28,7 +28,7 @@ Filename: brix.png
 <br>
 URL: brix.brickmmo.com
 </small>
-
+-->
 </td>
 <td width="25%">
 
@@ -243,11 +243,11 @@ URL: brix.brickmmo.com
 </td>
 <td width="25%">
 
-<h3>FONT ICONS</h3>
-<img src="icons/png/font-icons.png">
+<h3>GLYPHS</h3>
+<img src="icons/png/glyphs.png">
 <ul>
-<li><a href="icons/png/font-icons.png" download>font-icons.png</a></li>
-<li><a href="icons/svg/font-icons.svg" download>font-icons.svg</a></li>
+<li><a href="icons/png/glyphs.png" download>glyphs.png</a></li>
+<li><a href="icons/svg/glyphs.svg" download>glyphs.svg</a></li>
 </ul>
 
 </td>
@@ -339,7 +339,7 @@ URL: brix.brickmmo.com
 </table>
 
 
-BrickMMO icons can be included as icon files using the [FontIcons](https://fonticons.brickmmo.com) CSS library or as PNGs using the [BrickMMO CDN](https://cdn.brickmmo.com). 
+BrickMMO icons can be included as icon files using the [Glyphs](https://gluphs.brickmmo.com) CSS library or as PNGs using the [BrickMMO CDN](https://cdn.brickmmo.com). 
 
 > CDN is available at [https://cdn.brickmmo.com/](https://cdn.brickmmo.com/)
 
