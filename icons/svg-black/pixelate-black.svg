@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 417.3 416">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="176.4" y="46.21" width="64.8" height="64.8"/>
+  <rect class="cls-1" x="176.4" y="304.99" width="64.8" height="64.8"/>
+  <rect class="cls-1" x="241.15" y="110.9" width="64.8" height="64.8"/>
+  <rect class="cls-1" x="305.85" y="175.68" width="64.8" height="64.8"/>
+  <rect class="cls-1" x="46.65" y="175.68" width="64.8" height="64.8"/>
+  <rect class="cls-1" x="111.3" y="110.9" width="64.8" height="64.8"/>
+  <rect class="cls-1" x="241.15" y="240.45" width="64.8" height="64.8"/>
+  <rect class="cls-1" x="111.3" y="240.45" width="64.8" height="64.8"/>
+</svg>
