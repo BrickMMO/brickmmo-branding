@@ -10,7 +10,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 To create future icons, use [brickmmo-icons-revised.ai](icons/brickmmo-icons-revised.ai) as a template.
 
-<table style=width:"100%">
+<table width="100%">
 <tr>
 <td width="25%">
 
