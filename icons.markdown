@@ -243,11 +243,11 @@ URL: brix.brickmmo.com
 </td>
 <td width="25%">
 
-<h3>FONT ICONS</h3>
-<img src="icons/png/font-icons.png">
+<h3>GLYPHS</h3>
+<img src="icons/png/glyphs.png">
 <ul>
-<li><a href="icons/png/font-icons.png" download>font-icons.png</a></li>
-<li><a href="icons/svg/font-icons.svg" download>font-icons.svg</a></li>
+<li><a href="icons/png/glyphs.png" download>glyphs.png</a></li>
+<li><a href="icons/svg/glyphs.svg" download>glyphs.svg</a></li>
 </ul>
 
 </td>
