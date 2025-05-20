@@ -19,6 +19,7 @@ To create future icons, use [brickmmo-icons-revised.ai](icons/brickmmo-icons-rev
 <ul>
 <li><a href="icons/png/brix.png" download>brix.png</a></li>
 <li><a href="icons/svg/brix.svg" download>brix.svg</a></li>
+<li><a href="icons/svg-black/brix-black.svg" download>brix-black.svg</a></li>
 </ul>
 <!--
 <small>
@@ -37,6 +38,7 @@ URL: brix.brickmmo.com
 <ul>
 <li><a href="icons/png/navigation.png" download>navigation.png</a></li>
 <li><a href="icons/svg/navigation.svg" download>navigation.svg</a></li>
+<li><a href="icons/svg-black/navigation-black.svg" download>navigation-black.svg</a></li>
 </ul>
 
 </td>
@@ -47,6 +49,7 @@ URL: brix.brickmmo.com
 <ul>
 <li><a href="icons/png/flow.png" download>flow.png</a></li>
 <li><a href="icons/svg/flow.svg" download>flow.svg</a></li>
+<li><a href="icons/svg-black/flow-black.svg" download>flow-black.svg</a></li>
 </ul>
 
 </td>
