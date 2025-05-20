@@ -1,6 +1,6 @@
-# Branding
+# BrickMMO Branding Guidelines
 
-A repo to store branding guidelines and logo files for the BrickMMO Smart City.
+A repo to store branding guidelines and logo files for the BrickMMO Smart City project.
 
 > This repo is avilable to view at  
 > [https://branding.brickmmo.com/](https://branding.brickmmo.com/)
@@ -23,5 +23,3 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 <a href="https://brickmmo.com">
 <img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="300">
 </a>
-
-test
