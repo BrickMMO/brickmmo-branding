@@ -2,13 +2,13 @@
 
 [Home](/) / [In World Brands](/world) / Watts Wrong Brand Guidlines
 
-## Watts Wrong Brand Guidelines
+## Polybrick Leanring Commons Brand Guidelines
 
-**Welcome to the Watts Wrong Brand Guidelines and Standards documentation. This guide is designed to help our team, partners, and the community understand and apply our branding consistently across various media.**
+**Welcome to the Polybrick Learning Commons Brand Guidelines and Standards documentation. This guide is designed to help our team, partners, and the community understand and apply our branding consistently across various media.**
 
 **A brand is not simply a logo or a tagline. It is a whole identity built on a foundation of values and goals that represent the brand. We want to communicate to our audiences in a consistent and engaging voice and look.**
 
-**Watts Wrong is a power company that exists inside the BrickMMO Smart City.**
+**Polybrick Learning Commons is a library that exists inside the BrickMMO Smart City.**
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
