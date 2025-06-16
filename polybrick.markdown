@@ -19,20 +19,20 @@ Please refer to the publications below for the brand guidelines which review the
 <td width="50%">
 
 <h3>PRIMARY LOGO:</h3>
-<img src="watts/png/Watts_Wrong_Primary_Logo.png">
+<img src="polybrick/pngs/polybrick-logo-coloured.png">
 <ul>
-<li><a href="watts/png/Watts_Wrong_Primary_Logo.png" download>Watts_Wrong_Primary_Logo.png</a></li>
-<li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>Watts_Wrong_Primary_Logo.svg</a></li>
+<li><a href="polybrick/pngs/polybrick-logo-coloured.png" download>polybrick/pngs/polybrick-logo-coloured.png</a></li>
+<li><a href="polybrick/svg/polybrick-logo-coloured.svg" download>polybrick/svg/polybrick-logo-coloured.svg</a></li>
 </ul>
 
 </td>
 <td width="50%">
 
 <h3>SECONDARY LOGO:</h3>
-<img src="watts/png/Watts_Wrong_Secondary_Logo.png">
+<img src="polybrick/pngs/polybrick-logo-vertical-coloured.png">
 <ul>
-<li><a href="watts/png/Watts_Wrong_Secondary_Logo.png" download>Watts_Wrong_Secondary_Logo.png</a></li>
-<li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>WWatts_Wrong_Primary_Logo.svg</a></li>
+<li><a href="polybrick/pngs/polybrick-logo-vertical-coloured.png" download>polybrick/pngs/polybrick-logo-vertical-coloured.png</a></li>
+<li><a href="polybrick/svg/polybrick-logo-vertical-coloured.svg" download>polybrick/svg/polybrick-logo-vertical-coloured.svg</a></li>
 </ul>
 
 </td>
@@ -41,14 +41,14 @@ Please refer to the publications below for the brand guidelines which review the
 
 ## COLOURS
 
-<img src="watts/images/Watts_Wrong_Colours.jpg">
+<img src="polybrick/jpgs/polybrick-colours.jpg">
 
 ## TYPOGRAPHY
 
-<img src="watts/images/Watts_Wrong_Typography.jpg">
+<img src="polybrick/jpgs/polybrick-fonts.jpg">
 
-- <a href="https://fontzone.net/font-details/ocr-a-extended" target="_blank">OCR A Extended Font from Fontzone</a>
-- <a href="https://www.whatfontis.com/NFC_Piepie-Regular.font)" target="_blank"> Piepie Font from Whatfontis</a>
+- <a href="https://fonts.adobe.com/fonts/atf-franklin-gothic" target="_blank">Franklin Gothic ATF Font Family at Adobe Fonts</a>
+
 
 ---
 
