@@ -2,7 +2,7 @@
 
 [Home](/) / [In World Brands](/world) / Watts Wrong Brand Guidlines
 
-## Polybrick Leanring Commons Brand Guidelines
+## Polybrick Learning Commons Brand Guidelines
 
 **Welcome to the Polybrick Learning Commons Brand Guidelines and Standards documentation. This guide is designed to help our team, partners, and the community understand and apply our branding consistently across various media.**
 
@@ -19,21 +19,96 @@ Please refer to the publications below for the brand guidelines which review the
 <td width="50%">
 
 <h3>PRIMARY LOGO:</h3>
-<img src="polybrick/pngs/polybrick-logo-coloured.png">
+<img src="polybrick/pngs/polybrick-logo-coloured-display.png">
 <ul>
-<li><a href="polybrick/pngs/polybrick-logo-coloured.png" download>polybrick/pngs/polybrick-logo-coloured.png</a></li>
-<li><a href="polybrick/svg/polybrick-logo-coloured.svg" download>polybrick/svg/polybrick-logo-coloured.svg</a></li>
+<li><a href="polybrick/pngs/polybrick-logo-coloured.png" download>polybrick-logo-coloured.png</a></li>
+<li><a href="polybrick/svg/polybrick-logo-coloured.svg" download>polybrick-logo-coloured.svg</a></li>
+<li><a href="polybrick/eps/polybrick-logo-coloured.eps" download>polybrick-logo-coloured.eps</a></li>
 </ul>
 
 </td>
 <td width="50%">
 
 <h3>SECONDARY LOGO:</h3>
-<img src="polybrick/pngs/polybrick-logo-vertical-coloured.png">
+<img src="polybrick/pngs/polybrick-logo-vertical-coloured-display.png">
 <ul>
-<li><a href="polybrick/pngs/polybrick-logo-vertical-coloured.png" download>polybrick/pngs/polybrick-logo-vertical-coloured.png</a></li>
-<li><a href="polybrick/svg/polybrick-logo-vertical-coloured.svg" download>polybrick/svg/polybrick-logo-vertical-coloured.svg</a></li>
+<li><a href="polybrick/pngs/polybrick-logo-vertical-coloured.png" download>polybrick-logo-vertical-coloured.png</a></li>
+<li><a href="polybrick/svg/polybrick-logo-vertical-coloured.svg" download>polybrick-logo-vertical-coloured.svg</a></li>
+  <li><a href="polybrick/eps/polybrick-logo-vertical-coloured.eps" download>polybrick-logo-vertical-coloured.eps</a></li>
 </ul>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3>PRIMARY LOGO (BLACK):</h3>
+<img src="polybrick/pngs/polybrick-logo-black-display.png">
+<ul>
+<li><a href="polybrick/pngs/polybrick-logo-black.png" download>polybrick-logo-black.png</a></li>
+<li><a href="polybrick/svg/polybrick-logo-black.svg" download>polybrick-logo-black.svg</a></li>
+<li><a href="polybrick/eps/polybrick-logo-black.eps" download>polybrick-logo-black.eps</a></li>
+</ul>
+
+</td>
+<td width="50%">
+
+<h3>SECONDARY LOGO (BLACK):</h3>
+<img src="polybrick/pngs/polybrick-logo-vertical-black-display.png">
+<ul>
+<li><a href="polybrick/pngs/polybrick-logo-vertical-black.png" download>polybrick-logo-vertical-black.png</a></li>
+<li><a href="polybrick/svg/polybrick-logo-vertical-black.svg" download>polybrick-logo-vertical-black.svg</a></li>
+  <li><a href="polybrick/eps/polybrick-logo-vertical-black.eps" download>polybrick-logo-vertical-black.eps</a></li>
+</ul>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>PRIMARY LOGO (WHITE):</h3>
+<img src="polybrick/pngs/polybrick-logo-white-display.png">
+<ul>
+<li><a href="polybrick/pngs/polybrick-logo-white.png" download>polybrick-logo-white.png</a></li>
+<li><a href="polybrick/svg/polybrick-logo-white.svg" download>polybrick-logo-white.svg</a></li>
+<li><a href="polybrick/eps/polybrick-logo-white.eps" download>polybrick-logo-white.eps</a></li>
+</ul>
+
+</td>
+<td width="50%">
+
+<h3>SECONDARY LOGO (WHITE):</h3>
+<img src="polybrick/pngs/polybrick-logo-vertical-white-display.png">
+<ul>
+<li><a href="polybrick/pngs/polybrick-logo-vertical-white.png" download>polybrick-logo-vertical-white.png</a></li>
+<li><a href="polybrick/svg/polybrick-logo-vertical-white.svg" download>polybrick-logo-vertical-white.svg</a></li>
+  <li><a href="polybrick/eps/polybrick-logo-vertical-white.eps" download>polybrick-logo-vertical-white.eps</a></li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+
+<table>  
+<tr>  
+<td width="33.3%">  
+
+<h3>Coloured Logo Symbol</h3>
+<img src="polybrick/pngs/polybrick-symbol-coloured-display.png">
+
+</td>
+<td width="33.3%">
+
+<h3>Monotone Logo Symbol (Black)</h3>
+<img src="polybrick/pngs/polybrick-symbol-black-display.png">
+
+</td>
+<td width="33.3%">
+
+<h3>Monotone Logo Symbol (White)</h3>
+<img src="polybrick/pngs/polybrick-symbol-white-display.png">
 
 </td>
 </tr>
@@ -42,10 +117,11 @@ Please refer to the publications below for the brand guidelines which review the
 ## COLOURS
 
 <img src="polybrick/jpgs/polybrick-colours.jpg">
+<img src="polybrick/jpgs/polybrick-monotones.jpg">
 
 ## TYPOGRAPHY
 
-<img src="polybrick/jpgs/polybrick-fonts.jpg">
+<img src="polybrick/jpgs/polybrick-typography.jpg">
 
 - <a href="https://fonts.adobe.com/fonts/atf-franklin-gothic" target="_blank">Franklin Gothic ATF Font Family at Adobe Fonts</a>
 
