@@ -244,7 +244,7 @@ HEX: #848484
 <tr>
 <td width="33.3%">
 
-<h3>Coloured Symbol</h3>
+<h3>Coloured Wordmark</h3>
 <img src="png/brickmmo-logo-wordmark-coloured.png">
 <ul>
 <li><a href="png/brickmmo-logo-wordmark-coloured.png" download>brickmmo-logo-wordmark-coloured.png</a></li>
@@ -255,7 +255,7 @@ HEX: #848484
 </td>
 <td width="33.3%">
 
-<h3>Monotone Symbol (Black)</h3>
+<h3>Monotone Wordmark (Black)</h3>
 <img src="png/brickmmo-logo-wordmark-black.png">
 <ul>
 <li><a href="png/brickmmo-logo-wordmark-black.png" download>brickmmo-logo-wordmark-black.png</a></li>
@@ -266,7 +266,7 @@ HEX: #848484
 </td>
 <td width="33.3%">
 
-<h3>Monotone Symbol (White)</h3>
+<h3>Monotone Wordmark (White)</h3>
 <img src="png/brickmmo-logo-wordmark-white-bg.png">
 <ul>
 <li><a href="png/brickmmo-logo-wordmark-white.png" download>brickmmo-logo-wordmark-white.png</a></li>
