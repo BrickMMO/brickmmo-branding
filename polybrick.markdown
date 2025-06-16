@@ -97,18 +97,33 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>Coloured Logo Symbol</h3>
 <img src="polybrick/pngs/polybrick-symbol-coloured-display.png">
+<ul>
+<li><a href="polybrick/pngs/polybrick-symbol-coloured.png" download>polybrick-symbol-coloured.png</a></li>
+<li><a href="polybrick/svg/polybrick-symbol-coloured.svg" download>polybrick-symbol-coloured.svg</a></li>
+<li><a href="polybrick/eps/polybrick-symbol-coloured.eps" download>polybrick-symbol-coloured.eps</a></li>
+</ul>
 
 </td>
 <td width="33.3%">
 
 <h3>Monotone Logo Symbol (Black)</h3>
 <img src="polybrick/pngs/polybrick-symbol-black-display.png">
+<ul>
+<li><a href="polybrick/pngs/polybrick-symbol-black.png" download>polybrick-symbol-black.png</a></li>
+<li><a href="polybrick/svg/polybrick-symbol-black.svg" download>polybrick-symbol-black.svg</a></li>
+<li><a href="polybrick/eps/polybrick-symbol-black.eps" download>polybrick-symbol-black.eps</a></li>
+</ul>
 
 </td>
 <td width="33.3%">
 
 <h3>Monotone Logo Symbol (White)</h3>
 <img src="polybrick/pngs/polybrick-symbol-white-display.png">
+<ul>
+<li><a href="polybrick/pngs/polybrick-symbol-white.png" download>polybrick-symbol-white.png</a></li>
+<li><a href="polybrick/svg/polybrick-symbol-white.svg" download>polybrick-symbol-white.svg</a></li>
+<li><a href="polybrick/eps/polybrick-symbol-white.eps" download>polybrick-symbol-white.eps</a></li>
+</ul>
 
 </td>
 </tr>
