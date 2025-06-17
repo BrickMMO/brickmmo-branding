@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 267.12 267.11">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d1d3d4;
+      }
+
+      .cls-2 {
+        font-family: FranklinGothicATF-Bold, 'Franklin Gothic ATF';
+        font-size: 30.22px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        fill: #e6e7e8;
+      }
+
+      .cls-6 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-3" d="M126.47,153.39c-22.42-23.35-44.7-35.33-66.85-36.75-1.28-.08-2.28-1.11-2.28-2.39V29.33c0-1.43,1.25-2.56,2.67-2.39,24.14,2.92,46.9,11.22,66.46,31.82v94.63Z"/>
+    <path class="cls-1" d="M140.33,153.42c22.42-23.35,44.7-35.33,66.85-36.75,1.28-.08,2.28-1.11,2.28-2.39V29.36c0-1.43-1.25-2.56-2.67-2.39-24.14,2.92-46.9,11.22-66.46,31.82v94.63Z"/>
+    <path class="cls-5" d="M140.17,153.49c-4.85,1.15-9.46,1.14-13.82,0-.28-.07-.48-.33-.48-.62V59.3c0-.4.37-.69.76-.61,4.46.9,8.89.8,13.28-.02.39-.07.75.22.75.62v93.57c0,.3-.21.56-.5.63Z"/>
+    <path class="cls-1" d="M133.56,17.38c-12.85,0-23.82-3.32-28.13-8-.68-.74-1.91-.25-1.91.75v11.45c0,.1-.02.21-.02.31,0,6.63,12.62,12.05,28.48,12.39,1.65.08,3.3.05,4.95-.06,14.96-.69,26.61-5.91,26.68-12.26.01-.01.02-.02.03-.03v-11.82c0-1.03-1.25-1.48-1.95-.72-4.31,4.67-15.27,8-28.13,8Z"/>
+  </g>
+  <text class="cls-2" transform="translate(62.76 189.68)"><tspan class="cls-4" x="0" y="0">P</tspan><tspan x="20.64" y="0">olybric</tspan><tspan class="cls-7" x="122.88" y="0">k</tspan><tspan class="cls-6" x="4.7" y="32.24">L</tspan><tspan x="22.11" y="32.24">earning</tspan><tspan x="-6.09" y="64.47">Commons</tspan></text>
+</svg>

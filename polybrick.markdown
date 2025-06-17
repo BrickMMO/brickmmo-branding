@@ -2,37 +2,127 @@
 
 [Home](/) / [In World Brands](/world) / Watts Wrong Brand Guidlines
 
-## Watts Wrong Brand Guidelines
+## Polybrick Learning Commons Brand Guidelines
 
-**Welcome to the Watts Wrong Brand Guidelines and Standards documentation. This guide is designed to help our team, partners, and the community understand and apply our branding consistently across various media.**
+**Welcome to the Polybrick Learning Commons Brand Guidelines and Standards documentation. This guide is designed to help our team, partners, and the community understand and apply our branding consistently across various media.**
 
 **A brand is not simply a logo or a tagline. It is a whole identity built on a foundation of values and goals that represent the brand. We want to communicate to our audiences in a consistent and engaging voice and look.**
 
-**Watts Wrong is a power company that exists inside the BrickMMO Smart City.**
+**Polybrick Learning Commons is a library that exists inside the BrickMMO Smart City.**
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
-## VERSION LOGOS
+## LOGOS
 
 <table>
 <tr>
 <td width="50%">
 
 <h3>PRIMARY LOGO:</h3>
-<img src="watts/png/Watts_Wrong_Primary_Logo.png">
+<img src="polybrick/pngs/polybrick-logo-coloured-display.png">
 <ul>
-<li><a href="watts/png/Watts_Wrong_Primary_Logo.png" download>Watts_Wrong_Primary_Logo.png</a></li>
-<li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>Watts_Wrong_Primary_Logo.svg</a></li>
+<li><a href="polybrick/pngs/polybrick-logo-coloured.png" download>polybrick-logo-coloured.png</a></li>
+<li><a href="polybrick/svg/polybrick-logo-coloured.svg" download>polybrick-logo-coloured.svg</a></li>
+<li><a href="polybrick/eps/polybrick-logo-coloured.eps" download>polybrick-logo-coloured.eps</a></li>
 </ul>
 
 </td>
 <td width="50%">
 
 <h3>SECONDARY LOGO:</h3>
-<img src="watts/png/Watts_Wrong_Secondary_Logo.png">
+<img src="polybrick/pngs/polybrick-logo-vertical-coloured-display.png">
 <ul>
-<li><a href="watts/png/Watts_Wrong_Secondary_Logo.png" download>Watts_Wrong_Secondary_Logo.png</a></li>
-<li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>WWatts_Wrong_Primary_Logo.svg</a></li>
+<li><a href="polybrick/pngs/polybrick-logo-vertical-coloured.png" download>polybrick-logo-vertical-coloured.png</a></li>
+<li><a href="polybrick/svg/polybrick-logo-vertical-coloured.svg" download>polybrick-logo-vertical-coloured.svg</a></li>
+  <li><a href="polybrick/eps/polybrick-logo-vertical-coloured.eps" download>polybrick-logo-vertical-coloured.eps</a></li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3>PRIMARY LOGO (BLACK):</h3>
+<img src="polybrick/pngs/polybrick-logo-black-display.png">
+<ul>
+<li><a href="polybrick/pngs/polybrick-logo-black.png" download>polybrick-logo-black.png</a></li>
+<li><a href="polybrick/svg/polybrick-logo-black.svg" download>polybrick-logo-black.svg</a></li>
+<li><a href="polybrick/eps/polybrick-logo-black.eps" download>polybrick-logo-black.eps</a></li>
+</ul>
+
+</td>
+<td width="50%">
+
+<h3>SECONDARY LOGO (BLACK):</h3>
+<img src="polybrick/pngs/polybrick-logo-vertical-black-display.png">
+<ul>
+<li><a href="polybrick/pngs/polybrick-logo-vertical-black.png" download>polybrick-logo-vertical-black.png</a></li>
+<li><a href="polybrick/svg/polybrick-logo-vertical-black.svg" download>polybrick-logo-vertical-black.svg</a></li>
+  <li><a href="polybrick/eps/polybrick-logo-vertical-black.eps" download>polybrick-logo-vertical-black.eps</a></li>
+</ul>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>PRIMARY LOGO (WHITE):</h3>
+<img src="polybrick/pngs/polybrick-logo-white-display.png">
+<ul>
+<li><a href="polybrick/pngs/polybrick-logo-white.png" download>polybrick-logo-white.png</a></li>
+<li><a href="polybrick/svg/polybrick-logo-white.svg" download>polybrick-logo-white.svg</a></li>
+<li><a href="polybrick/eps/polybrick-logo-white.eps" download>polybrick-logo-white.eps</a></li>
+</ul>
+
+</td>
+<td width="50%">
+
+<h3>SECONDARY LOGO (WHITE):</h3>
+<img src="polybrick/pngs/polybrick-logo-vertical-white-display.png">
+<ul>
+<li><a href="polybrick/pngs/polybrick-logo-vertical-white.png" download>polybrick-logo-vertical-white.png</a></li>
+<li><a href="polybrick/svg/polybrick-logo-vertical-white.svg" download>polybrick-logo-vertical-white.svg</a></li>
+  <li><a href="polybrick/eps/polybrick-logo-vertical-white.eps" download>polybrick-logo-vertical-white.eps</a></li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+
+<table>  
+<tr>  
+<td width="33.3%">  
+
+<h3>Coloured Logo Symbol</h3>
+<img src="polybrick/pngs/polybrick-symbol-coloured-display.png">
+<ul>
+<li><a href="polybrick/pngs/polybrick-symbol-coloured.png" download>polybrick-symbol-coloured.png</a></li>
+<li><a href="polybrick/svg/polybrick-symbol-coloured.svg" download>polybrick-symbol-coloured.svg</a></li>
+<li><a href="polybrick/eps/polybrick-symbol-coloured.eps" download>polybrick-symbol-coloured.eps</a></li>
+</ul>
+
+</td>
+<td width="33.3%">
+
+<h3>Monotone Logo Symbol (Black)</h3>
+<img src="polybrick/pngs/polybrick-symbol-black-display.png">
+<ul>
+<li><a href="polybrick/pngs/polybrick-symbol-black.png" download>polybrick-symbol-black.png</a></li>
+<li><a href="polybrick/svg/polybrick-symbol-black.svg" download>polybrick-symbol-black.svg</a></li>
+<li><a href="polybrick/eps/polybrick-symbol-black.eps" download>polybrick-symbol-black.eps</a></li>
+</ul>
+
+</td>
+<td width="33.3%">
+
+<h3>Monotone Logo Symbol (White)</h3>
+<img src="polybrick/pngs/polybrick-symbol-white-display.png">
+<ul>
+<li><a href="polybrick/pngs/polybrick-symbol-white.png" download>polybrick-symbol-white.png</a></li>
+<li><a href="polybrick/svg/polybrick-symbol-white.svg" download>polybrick-symbol-white.svg</a></li>
+<li><a href="polybrick/eps/polybrick-symbol-white.eps" download>polybrick-symbol-white.eps</a></li>
 </ul>
 
 </td>
@@ -41,14 +131,15 @@ Please refer to the publications below for the brand guidelines which review the
 
 ## COLOURS
 
-<img src="watts/images/Watts_Wrong_Colours.jpg">
+<img src="polybrick/jpgs/polybrick-colours.jpg">
+<img src="polybrick/jpgs/polybrick-monotones.jpg">
 
 ## TYPOGRAPHY
 
-<img src="watts/images/Watts_Wrong_Typography.jpg">
+<img src="polybrick/jpgs/polybrick-typography.jpg">
 
-- <a href="https://fontzone.net/font-details/ocr-a-extended" target="_blank">OCR A Extended Font from Fontzone</a>
-- <a href="https://www.whatfontis.com/NFC_Piepie-Regular.font)" target="_blank"> Piepie Font from Whatfontis</a>
+- <a href="https://fonts.adobe.com/fonts/atf-franklin-gothic" target="_blank">Franklin Gothic ATF Font Family at Adobe Fonts</a>
+
 
 ---
 
