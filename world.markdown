@@ -31,7 +31,7 @@ Content...
 <td>
 
 <h3>3. POLYBRICK LEARNING COMMONS:</h3>
-<a href="/polybrick"><img src="loot/Loot_Logo.jpg" width="500"></a>
+<a href="/polybrick"><img src="polybrick/jpgs/polybrick-logo.jpg" width="500"></a>
   
 </td>****
 </tr>
