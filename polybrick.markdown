@@ -8,7 +8,7 @@
 
 **A brand is not simply a logo or a tagline. It is a whole identity built on a foundation of values and goals that represent the brand. We want to communicate to our audiences in a consistent and engaging voice and look.**
 
-**Polybrick Learning Commons is a library that exists inside the BrickMMO Smart City.**
+**Polybrick Learning Commons is a library that exists inside the BrickMMO Smart City. It is a welcoming, adaptable, tech-enabled environment that encourages exploration, supports diverse learner needs, and acts as a central node in the educational ecosystem. Whether it's for studying, collaborating, tinkering in a makerspace, or connecting with writing tutors and librarians, it's where knowledge, innovation, and community converge.**
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
