@@ -45,9 +45,9 @@ Please refer to the publications below for the brand guidelines which review the
 <h3>PRIMARY LOGO (BLACK):</h3>
 <img src="hubbub/pngs/hubbub-logo-black-display.png">
 <ul>
-<li><a href="polybrick/pngs/polybrick-logo-black.png" download>polybrick-logo-black.png</a></li>
-<li><a href="polybrick/svg/polybrick-logo-black.svg" download>polybrick-logo-black.svg</a></li>
-<li><a href="polybrick/eps/polybrick-logo-black.eps" download>polybrick-logo-black.eps</a></li>
+<li><a href="hubbub/pngs/hubbub-logo-black.png" download>hubbub-logo-black.png</a></li>
+<li><a href="hubbub/svg/hubbub-logo-black.svg" download>hubbub-logo-black.svg</a></li>
+<li><a href="hubbub/eps/hubbub-logo-black.eps" download>hubbub-logo-black.eps</a></li>
 </ul>
 
 </td>
@@ -56,9 +56,9 @@ Please refer to the publications below for the brand guidelines which review the
 <h3>SECONDARY LOGO (BLACK):</h3>
 <img src="hubbub/pngs/hubbub-logo-vertical-black-display.png">
 <ul>
-<li><a href="polybrick/pngs/polybrick-logo-vertical-black.png" download>polybrick-logo-vertical-black.png</a></li>
-<li><a href="polybrick/svg/polybrick-logo-vertical-black.svg" download>polybrick-logo-vertical-black.svg</a></li>
-  <li><a href="polybrick/eps/polybrick-logo-vertical-black.eps" download>polybrick-logo-vertical-black.eps</a></li>
+<li><a href="hubbub/pngs/hubbub-logo-vertical-black.png" download>hubbub-logo-vertical-black.png</a></li>
+<li><a href="hubbub/svg/hubbub-logo-vertical-black.svg" download>hubbub-logo-vertical-black.svg</a></li>
+  <li><a href="hubbub/eps/hubbub-logo-vertical-black.eps" download>hubbub-logo-vertical-black.eps</a></li>
 </ul>
 
 </td>
@@ -70,9 +70,9 @@ Please refer to the publications below for the brand guidelines which review the
 <h3>PRIMARY LOGO (WHITE):</h3>
 <img src="hubbub/pngs/hubbub-logo-white-display.png">
 <ul>
-<li><a href="polybrick/pngs/polybrick-logo-white.png" download>polybrick-logo-white.png</a></li>
-<li><a href="polybrick/svg/polybrick-logo-white.svg" download>polybrick-logo-white.svg</a></li>
-<li><a href="polybrick/eps/polybrick-logo-white.eps" download>polybrick-logo-white.eps</a></li>
+<li><a href="hubbub/pngs/hubbub-logo-white.png" download>hubbub-logo-white.png</a></li>
+<li><a href="hubbub/svg/hubbub-logo-white.svg" download>hubbub-logo-white.svg</a></li>
+<li><a href="hubbub/eps/hubbub-logo-white.eps" download>hubbub-logo-white.eps</a></li>
 </ul>
 
 </td>
@@ -81,9 +81,9 @@ Please refer to the publications below for the brand guidelines which review the
 <h3>SECONDARY LOGO (WHITE):</h3>
 <img src="hubbub/pngs/hubbub-logo-vertical-white-display.png">
 <ul>
-<li><a href="polybrick/pngs/polybrick-logo-vertical-white.png" download>polybrick-logo-vertical-white.png</a></li>
-<li><a href="polybrick/svg/polybrick-logo-vertical-white.svg" download>polybrick-logo-vertical-white.svg</a></li>
-  <li><a href="polybrick/eps/polybrick-logo-vertical-white.eps" download>polybrick-logo-vertical-white.eps</a></li>
+<li><a href="hubbub/pngs/hubbub-logo-vertical-white.png" download>hubbub-logo-vertical-white.png</a></li>
+<li><a href="hubbub/svg/hubbub-logo-vertical-white.svg" download>hubbub-logo-vertical-white.svg</a></li>
+  <li><a href="hubbub/eps/hubbub-logo-vertical-white.eps" download>hubbub-logo-vertical-white.eps</a></li>
 </ul>
 
 </td>
@@ -98,9 +98,9 @@ Please refer to the publications below for the brand guidelines which review the
 <h3>Coloured Logo Symbol</h3>
 <img src="hubbub/pngs/hubbub-symbol-coloured-display.png">
 <ul>
-<li><a href="polybrick/pngs/polybrick-symbol-coloured.png" download>polybrick-symbol-coloured.png</a></li>
-<li><a href="polybrick/svg/polybrick-symbol-coloured.svg" download>polybrick-symbol-coloured.svg</a></li>
-<li><a href="polybrick/eps/polybrick-symbol-coloured.eps" download>polybrick-symbol-coloured.eps</a></li>
+<li><a href="hubbub/pngs/hubbub-symbol-coloured.png" download>hubbub-symbol-coloured.png</a></li>
+<li><a href="hubbub/svg/hubbub-symbol-coloured.svg" download>hubbub-symbol-coloured.svg</a></li>
+<li><a href="hubbub/eps/hubbub-symbol-coloured.eps" download>hubbub-symbol-coloured.eps</a></li>
 </ul>
 
 </td>
@@ -109,9 +109,9 @@ Please refer to the publications below for the brand guidelines which review the
 <h3>Monotone Logo Symbol (Black)</h3>
 <img src="hubbub/pngs/hubbub-symbol-black-display.png">
 <ul>
-<li><a href="polybrick/pngs/polybrick-symbol-black.png" download>polybrick-symbol-black.png</a></li>
-<li><a href="polybrick/svg/polybrick-symbol-black.svg" download>polybrick-symbol-black.svg</a></li>
-<li><a href="polybrick/eps/polybrick-symbol-black.eps" download>polybrick-symbol-black.eps</a></li>
+<li><a href="hubbub/pngs/hubbub-symbol-black.png" download>hubbub-symbol-black.png</a></li>
+<li><a href="hubbub/svg/hubbub-symbol-black.svg" download>hubbub-symbol-black.svg</a></li>
+<li><a href="hubbub/eps/hubbub-symbol-black.eps" download>hubbub-symbol-black.eps</a></li>
 </ul>
 
 </td>
@@ -120,9 +120,9 @@ Please refer to the publications below for the brand guidelines which review the
 <h3>Monotone Logo Symbol (White)</h3>
 <img src="hubbub/pngs/hubbub-logo-symbol-white-display.png">
 <ul>
-<li><a href="polybrick/pngs/polybrick-symbol-white.png" download>polybrick-symbol-white.png</a></li>
-<li><a href="polybrick/svg/polybrick-symbol-white.svg" download>polybrick-symbol-white.svg</a></li>
-<li><a href="polybrick/eps/polybrick-symbol-white.eps" download>polybrick-symbol-white.eps</a></li>
+<li><a href="hubbub/pngs/hubbub-symbol-white.png" download>hubbub-symbol-white.png</a></li>
+<li><a href="hubbub/svg/hubbub-symbol-white.svg" download>hubbub-symbol-white.svg</a></li>
+<li><a href="hubbub/eps/hubbub-symbol-white.eps" download>hubbub-symbol-white.eps</a></li>
 </ul>
 
 </td>
@@ -137,7 +137,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <img src="hubbub/jpgs/hubbub-typography.jpg">
 
-- <a href="https://fonts.adobe.com/fonts/atf-franklin-gothic" target="_blank">Franklin Gothic ATF Font Family at Adobe Fonts</a>
+- <a href="https://fonts.adobe.com/fonts/arial" target="_blank">Arial Font Family at Adobe Fonts</a>
 
 
 ---
