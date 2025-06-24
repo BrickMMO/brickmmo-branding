@@ -37,7 +37,7 @@
 <td width="50%">
 
 <h3>5. THE HUBBUB PRESS:</h3>
-<a href="/watts"><img src="watts/Watts_Wrong_Logo.jpg" width="500" ></a>
+<a href="/hubbub"><img src="hubbub/jpgs/hubbub-logo-display.jpg" width="500" ></a>
 
 </td>
 <td width="50%">
