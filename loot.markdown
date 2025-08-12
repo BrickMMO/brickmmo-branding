@@ -12,7 +12,7 @@
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
-## VERSION LOGOS
+## LOGOS
 
 <table>
 <tr>
