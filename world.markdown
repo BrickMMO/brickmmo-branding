@@ -8,13 +8,13 @@
 <tr>
 <td width="50%">
 
-<h3>1. WATTS WRONG</h3>
+<h3>WATTS WRONG</h3>
 <a href="/watts"><img src="watts/Watts_Wrong_Logo.jpg" width="500" ></a>
 
 </td>
 <td width="50%">
 
-<h3>2. 96.9 LIVELY STATION:</h3>
+<h3>96.9 LIVELY STATION:</h3>
 <a href="/lively"><img src="lively/Lively_Radio_Station_Logo.jpg" width="500"></a>
 
 </td>
@@ -22,13 +22,13 @@
 <tr>
 <td>
 
-<h3>3. LOOT:</h3>
+<h3>LOOT:</h3>
 <a href="/loot"><img src="loot/Loot_Logo.jpg" width="500"></a>
   
 </td>
 <td>
 
-<h3>4. POLYBRICK LEARNING COMMONS:</h3>
+<h3>POLYBRICK LEARNING COMMONS:</h3>
 <a href="/polybrick"><img src="polybrick/jpgs/polybrick-main-logo.jpg" width="500"></a>
   
 </td>
@@ -36,7 +36,7 @@
 <tr>
 <td width="50%">
 
-<h3>5. THE HUBBUB PRESS:</h3>
+<h3>THE HUBBUB PRESS:</h3>
 <a href="/hubbub"><img src="hubbub/jpgs/hubbub-logo-display.jpg" width="500" ></a>
 
 </td>
