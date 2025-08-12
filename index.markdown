@@ -1,8 +1,10 @@
+# brickmmo-branding
+
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-Welcome to the BrickMMO Brand Guidelines and Standards documentation. This guide is designed to help our team, partners, and the community understand and apply our branding consistently across various media.
-
 ## BrickMMO Branding Guidelines
+
+**Welcome to the BrickMMO Brand Guidelines and Standards documentation. This guide is designed to help our team, partners, and the community understand and apply our branding consistently across various media.**
 
 **A brand is not simply a logo or a tagline. It is a whole identity built on a foundation of values and goals that represent BrickMMO. We want to communicate to our audiences in a consistent and engaging voice and look.**
 
