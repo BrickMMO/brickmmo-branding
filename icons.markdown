@@ -376,6 +376,17 @@ URL: brix.brickmmo.com
 </ul>
 
 </td>
+<td>
+    
+<h3>SSO</h3>
+<img src="icons/png/sso.png">
+<ul>
+<li><a href="icons/png/sso.png" download>sso.png</a></li>
+<li><a href="icons/svg/sso.svg" download>sso.svg</a></li>
+<li><a href="icons/svg-black/sso-black.svg" download>sso-black.svg</a></li>
+</ul>
+
+</td>
 </tr>
 </table>
 
