@@ -365,6 +365,17 @@ URL: brix.brickmmo.com
 </ul>
 
 </td>
+<td>
+    
+<h3>LIST</h3>
+<img src="icons/png/list.png">
+<ul>
+<li><a href="icons/png/list.png" download>list.png</a></li>
+<li><a href="icons/svg/list.svg" download>list.svg</a></li>
+<li><a href="icons/svg-black/list-black.svg" download>list-black.svg</a></li>
+</ul>
+
+</td>
 </tr>
 </table>
 
