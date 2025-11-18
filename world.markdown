@@ -28,7 +28,7 @@
 </td>
 <td>
 
-<h3>POLYBRICK LEARNING COMMONS:</h3>
+<h3>POLYBIRCK LEARNING COMMONS:</h3>
 <a href="/polybrick"><img src="polybrick/jpgs/polybrick-main-logo.jpg" width="500"></a>
   
 </td>
