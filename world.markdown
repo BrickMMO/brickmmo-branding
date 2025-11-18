@@ -14,7 +14,7 @@
 </td>
 <td width="50%">
 
-<h3>96.9 LIVELY STATION:</h3>
+<h3>96.9 LIVELY RADIO STATION:</h3>
 <a href="/lively"><img src="lively/Lively_Radio_Station_Logo.jpg" width="500"></a>
 
 </td>
