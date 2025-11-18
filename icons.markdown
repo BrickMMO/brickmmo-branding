@@ -60,7 +60,7 @@ To create future icons, use [brickmmo-icons-revised.ai](icons/brickmmo-icons-rev
 <tr>
 <td width="25%">
 
-<h3>CLOCK</h3>
+<h3>CLORK</h3>
 <img src="icons/png/clock.png">
 <ul>
 <li><a href="icons/png/clock.png" download>clock.png</a></li>
