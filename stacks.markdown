@@ -60,7 +60,7 @@ These assets are written using [React](https://react.dev/) and [MUI](https://mui
 
 All BrickMMO assets use one of the following backend stacks:
 
-#### 1. Vanillia PHP
+#### 1. Vanilla PHP
 
 Skill Level Required: **Moderate**  
 Language: **PHP**
