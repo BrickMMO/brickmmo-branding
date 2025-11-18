@@ -28,7 +28,7 @@ These assets are written primarily in [Markdown](https://daringfireball.net/proj
 Skill Level Required: **Moderate**  
 Languages: **HTML, JavaScript, and W3.CSS**
 
-These assets are written using the [W3.CSS](https://www.w3schools.com/w3css/) CSS framework. This is a super lightweight framework that provides developers a great introduction to CSS frameworks. These assets must be coded using **only** W3.CSS classes; no custom CSS may be added (other than default fonts and colours that have been set in the W3.CSS BrickMMO template).
+These assets are written using the [W3.CSS](https://www.w3schools.com/w3css/) CSS framework. This is a super lightweight framework that provides developers a great introduction to CSS frameworks. These assets must be coded using **only** W3.CSS classes; no custom CSS may be added (other than default fonts and colors that have been set in the W3.CSS BrickMMO template).
 
 <img src="https://console.codeadam.ca/api/image/w3css" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60"> <img src="https://console.codeadam.ca/api/image/javascript" width="60"> 
 
