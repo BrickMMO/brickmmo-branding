@@ -414,6 +414,8 @@ BrickMMO icons can be included as icon files using the [Glyphs](https://glyphs.b
 <img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="100">
 </a>
 
+<!-- spell checked on 11/18/2025 -->
+
 <script 
     src="https://cdn.brickmmo.com/bar@1.1.0/bar.js"
     data-console="false"
