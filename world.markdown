@@ -2,19 +2,19 @@
 
 [Home](/) / In World Brands
 
-## BrickMMO In World Brands
+## Brickmmo In World Brands
 
 <table width="100%">
 <tr>
 <td width="50%">
 
-<h3>WATTS WRONG</h3>
+<h3>WHAT'S WRONG:</h3>
 <a href="/watts"><img src="watts/Watts_Wrong_Logo.jpg" width="500" ></a>
 
 </td>
 <td width="50%">
 
-<h3>96.9 LIVELY STATION:</h3>
+<h3>96.9 LIVELY RADIO STATION:</h3>
 <a href="/lively"><img src="lively/Lively_Radio_Station_Logo.jpg" width="500"></a>
 
 </td>
@@ -22,7 +22,7 @@
 <tr>
 <td>
 
-<h3>LOOT:</h3>
+<h3>LOOT CRPYTO COIN:</h3>
 <a href="/loot"><img src="loot/Loot_Logo.jpg" width="500"></a>
   
 </td>
