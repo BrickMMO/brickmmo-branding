@@ -165,6 +165,7 @@ To create future icons, use [brickmmo-icons-revised.ai](icons/brickmmo-icons-rev
     </tr>
     <tr>
     <td width="25%">
+
 <h3>GLYPHS</h3>
 <img src="icons/png/glyphs.png">
 <ul>
@@ -424,6 +425,8 @@ BrickMMO icons can be included as icon files using the [Glyphs](https://glyphs.b
 <a href="https://brickmmo.com">
 <img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="100">
 </a>
+
+<!-- spell checked on 11/18/2025 -->
 
 <script 
     src="https://cdn.brickmmo.com/bar@1.1.0/bar.js"

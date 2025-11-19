@@ -12,6 +12,8 @@
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
+> Website is available at [hubbub.brickmmo.com](https://hubbub.brickmmo.com/)
+> 
 ## LOGOS
 
 <table>
@@ -145,6 +147,8 @@ Please refer to the publications below for the brand guidelines which review the
 <a href="https://brickmmo.com">
 <img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="100">
 </a>
+
+<!-- spell checked on 11/18/2025 -->
 
 <script 
     src="https://cdn.brickmmo.com/bar@1.1.0/bar.js"
